@@ -3,6 +3,9 @@ using System.Collections;
 
 public class Shop : MonoBehaviour {
 
+    public TurretBlueprint standardTurret;
+    public TurretBlueprint missleLauncher;
+
     BuildManager buildManager;
 
     void Start()
@@ -10,16 +13,16 @@ public class Shop : MonoBehaviour {
         buildManager = BuildManager.instance;
     }
 
-	public void PurchaseStandardTurret()
+	public void SelectStandardTurret()
     {
         Debug.Log("am luat muahahaah");
-        buildManager.SetTurretToBuild(buildManager.standardTurretPrefab);
+        buildManager.SelectTurretToBuild(standardTurret);
     }
 
-    public void PurchaseMissleLauncher()
+    public void SelectMissleLauncher()
     {
         Debug.Log("am luat missle launcher");
-        buildManager.SetTurretToBuild(buildManager.missleLauncherPrefab);
+        buildManager.SelectTurretToBuild(missleLauncher);
     }
 
 }

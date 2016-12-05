@@ -20,12 +20,13 @@ public class CameraController : MonoBehaviour {
             return;
         if(Input.GetKey("w")|| Input.mousePosition.y>=Screen.height-panBorderThickness)
         {
-            transform.Translate(Vector3.forward * panSpeed * Time.deltaTime,Space.World);
+
+            transform.Translate(Vector3.forward * panSpeed * Time.deltaTime, Space.World);
 
         }
         if (Input.GetKey("s") || Input.mousePosition.y <=  panBorderThickness)
         {
-            transform.Translate(Vector3.back * panSpeed * Time.deltaTime, Space.World);
+            transform.Translate(Vector3.back * panSpeed * Time.deltaTime,Space.World);
 
         }
         if (Input.GetKey("d") || Input.mousePosition.x >= Screen.width - panBorderThickness)
