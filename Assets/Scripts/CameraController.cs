@@ -11,7 +11,13 @@ public class CameraController : MonoBehaviour {
     public float maxY = 80f;
 
 
-	void Update () {
+	void Update ()
+    { 
+        if(GameMaster.gameIsOver)
+        {
+            this.enabled = false;
+            return;
+        }
 
         if (Input.GetKeyDown(KeyCode.Y))
             doMovement = !doMovement;

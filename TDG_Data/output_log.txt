@@ -1,0 +1,88 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1060 with Max-Q Design (ID=0x1c20)
+    Vendor:   NVIDIA
+    VRAM:     2981 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Savi\Downloads\UnityProjects\Tower Defense Game\TDG_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Savi\Downloads\UnityProjects\Tower Defense Game\TDG_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Savi\Downloads\UnityProjects\Tower Defense Game\TDG_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Savi\Downloads\UnityProjects\Tower Defense Game\TDG_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Savi\Downloads\UnityProjects\Tower Defense Game\TDG_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Savi\Downloads\UnityProjects\Tower Defense Game\TDG_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Savi\Downloads\UnityProjects\Tower Defense Game\TDG_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Savi\Downloads\UnityProjects\Tower Defense Game\TDG_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.079 seconds
+Platform assembly: C:\Users\Savi\Downloads\UnityProjects\Tower Defense Game\TDG_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Savi\Downloads\UnityProjects\Tower Defense Game\TDG_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.867920 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 142c -> priority: 1 
+  Thread -> id: 26fc -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 26.535015 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 259.
+Total: 0.388011 ms (FindLiveObjects: 0.020786 ms CreateObjectMapping: 0.020056 ms MarkObjects: 0.244330 ms  DeleteObjects: 0.102108 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 21.177614 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2010.
+Total: 4.106574 ms (FindLiveObjects: 0.439430 ms CreateObjectMapping: 0.172854 ms MarkObjects: 3.474597 ms  DeleteObjects: 0.018233 ms)
+
+am luat muahahaah
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+am luat laser Beamer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+am luat missle launcher
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+not enough money to build that
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+am luat muahahaah
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+new level
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+level won
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.511202 ms
+
+Unloading 201 unused Assets to reduce memory usage. Loaded Objects now: 2004.
+Total: 1.611486 ms (FindLiveObjects: 0.127270 ms CreateObjectMapping: 0.063088 ms MarkObjects: 0.535703 ms  DeleteObjects: 0.885059 ms)
+
+am luat missle launcher
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.124649 ms
+
+Unloading 413 unused Assets to reduce memory usage. Loaded Objects now: 339.
+Total: 1.285469 ms (FindLiveObjects: 0.057618 ms CreateObjectMapping: 0.025162 ms MarkObjects: 0.246883 ms  DeleteObjects: 0.955441 ms)
+
+Quiting...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
